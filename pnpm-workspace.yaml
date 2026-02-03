@@ -1,8 +1,9 @@
 onlyBuiltDependencies:
-  -  "@journeyapps/sqlcipher"
-  -   "@nestjs/core"
-  -   "@swc/core"
-  -   "electron"
-  -   "electron-winstaller"
-  -   esbuild
-  -   protobufjs
+  - '@journeyapps/sqlcipher'
+  - '@nestjs/core'
+  - '@swc/core'
+  - electron
+  - electron-winstaller
+  - esbuild
+  - protobufjs
+  - unrs-resolver
