@@ -1,0 +1,32 @@
+# Dependencies
+
+node_modules/
+
+# Build outputs
+
+build/
+build_js/
+build_production/
+dist/
+
+# Test coverage
+
+coverage/
+
+# Lock files
+
+pnpm-lock.yaml
+package-lock.json
+
+# Documentation
+
+docs/
+
+# Generated files
+
+_.min.js
+_.bundle.js
+
+# Public assets (외부 라이브러리)
+
+/assets/external/
