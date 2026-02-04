@@ -6,6 +6,7 @@ import { defineConfig, swcPlugin } from 'electron-vite';
 export default defineConfig({
   main: {
     build: {
+      bytecode: true,
       minify: 'esbuild',
     },
     plugins: [swcPlugin()],
